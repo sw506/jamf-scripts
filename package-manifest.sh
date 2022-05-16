@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Package Manifest Definition: https://support.apple.com/en-eg/guide/deployment/dep873c25ac4/web
+
 #Usage: ./package-manifest.sh <url to package on jamf fileshare distibution-point>
 
 #chunksize in byte
